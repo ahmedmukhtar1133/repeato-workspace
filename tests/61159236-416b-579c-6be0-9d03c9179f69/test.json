@@ -1,0 +1,221 @@
+{
+    "version": 4,
+    "id": "61159236-416b-579c-6be0-9d03c9179f69",
+    "title": "NewTestA27June",
+    "description": "",
+    "steps": [
+        {
+            "id": "dfabedf7-42f0-80ff-7062-a4a2f3f0d12b",
+            "type": "startApp",
+            "optional": false,
+            "createdOn": 1687887679042,
+            "packageName": "com.iotecksolutions.todoapp",
+            "activityName": ".MainActivity",
+            "deleteAppData": false,
+            "grantPermissions": [],
+            "allPermissions": [],
+            "grantIosPermissions": [],
+            "allIosPermissions": [],
+            "os": "Android",
+            "iosBundleId": "",
+            "params": ""
+        },
+        {
+            "id": "6b7ae83c-88bb-c64e-6df5-254af1abeefd",
+            "originalFrame": "a71dcd1c-9cc0-6fea-13e8-166841dc293a_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1687887678995,
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.4774257845631891,
+                "y": 0.346412213740458,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "0cd9ef5d-f393-6f58-5c3f-bfd3e2de4eeb_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.47685185185185186,
+                        "y": 0.3463963963963964
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999998468886133
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.5374257845631891,
+                "y": 0.366412213740458
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "2c665394-4002-0e35-d99f-a3da1a32c079",
+            "originalFrame": "0b8fb78b-e603-8395-cdda-2450160a1e8e_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1687887682056,
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.030224766751484305,
+                "y": 0.43038167938931293,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "850020fc-81a1-eb4d-18e3-ce81b0da1107_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.02962962962962963,
+                        "y": 0.43018018018018017
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.0902247667514843,
+                "y": 0.45038167938931295
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "0217350f-1cc3-5a84-cebc-c74ef4750d63",
+            "originalFrame": "ec75173c-a63b-2a6b-8be1-47d5c6bb8704_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1687887683903,
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.038070398642917724,
+                "y": 0.5086259541984733,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "9f66a567-a60a-c445-d9cc-7fd2333edcde_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.03796296296296296,
+                        "y": 0.5085585585585586
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.09807039864291772,
+                "y": 0.5286259541984734
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "14961d63-ae91-8cac-f9ae-d0b8b8a09e90",
+            "originalFrame": "9b2613b2-776d-81f4-1fe4-18e18f9f41d3_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1687887685470,
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.7834054283290925,
+                "y": 0.5563358778625953,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "0ea85a86-2e9b-282f-8554-6796afe1392b_template.png",
+            "offset": {
+                "x": 1.1102230246251565e-16,
+                "y": 0
+            },
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.7833333333333333,
+                        "y": 0.5563063063063063
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 0.9999951521555582
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.8434054283290925,
+                "y": 0.5763358778625953
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        },
+        {
+            "id": "cfe8fa61-c223-74cb-e376-b9c1ce9f08f1",
+            "originalFrame": "b8c6dff1-638e-b2dc-d654-2795964e5f69_frame.jpg",
+            "type": "click",
+            "optional": false,
+            "createdOn": 1687887697823,
+            "matchIndex": 0,
+            "selection": {
+                "x": 0.43035199321458867,
+                "y": 0.628854961832061,
+                "width": 0.12,
+                "height": 0.04
+            },
+            "image": "115f81c9-bd27-0d52-9196-5bfcb02c51a4_template.png",
+            "matches": [
+                {
+                    "position": {
+                        "x": 0.42962962962962964,
+                        "y": 0.6288288288288288
+                    },
+                    "size": {
+                        "width": 0.11944444444444445,
+                        "height": 0.03963963963963964
+                    },
+                    "probability": 1
+                }
+            ],
+            "mouseDownPosition": {
+                "x": 0.49035199321458867,
+                "y": 0.648854961832061
+            },
+            "mouseMoveCoordinates": [],
+            "longClick": false
+        }
+    ],
+    "deviceData": {
+        "os": "Android",
+        "abi": "arm64-v8a",
+        "sdk": "29",
+        "osVersion": "10",
+        "size": "1080x2220",
+        "serial": "EMULATOR32X1X12X0",
+        "name": "Android SDK built for arm64",
+        "brand": "google",
+        "currentRotation": "ROTATION_0",
+        "rotationVars": {
+            "portrait": "ROTATION_0",
+            "landscape": "ROTATION_90",
+            "upsideDown": "ROTATION_180",
+            "seascape": "ROTATION_270"
+        },
+        "isSimulator": true
+    },
+    "createdOn": 1687887675975,
+    "changedOn": 1687887785748,
+    "isWorkingCopy": false,
+    "testRuns": [],
+    "testRunExports": []
+}
