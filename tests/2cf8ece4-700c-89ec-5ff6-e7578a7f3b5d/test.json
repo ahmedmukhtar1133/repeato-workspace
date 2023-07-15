@@ -1,8 +1,7 @@
 {
     "version": 4,
     "id": "2cf8ece4-700c-89ec-5ff6-e7578a7f3b5d",
-    "title": "LogoutAppWithFailedTestRun",
-    "description": "",
+    "title": "LogoutApp",
     "steps": [
         {
             "id": "58719158-93ca-6f19-39fa-ddb8fe198056",
@@ -14,10 +13,7 @@
             "deleteAppData": false,
             "grantPermissions": [],
             "allPermissions": [],
-            "grantIosPermissions": [],
-            "allIosPermissions": [],
-            "os": "Android",
-            "params": ""
+            "os": "Android"
         },
         {
             "id": "5bc719f0-0986-73a0-c5c2-d99d767ea475",
@@ -184,11 +180,10 @@
             "landscape": "ROTATION_90",
             "upsideDown": "ROTATION_180",
             "seascape": "ROTATION_270"
-        },
-        "isSimulator": false
+        }
     },
     "createdOn": 1654630511064,
-    "changedOn": 1687887974115,
+    "changedOn": 1654630530239,
     "isWorkingCopy": false,
     "testRuns": [
         {
@@ -211,8 +206,7 @@
                     "landscape": "ROTATION_90",
                     "upsideDown": "ROTATION_180",
                     "seascape": "ROTATION_270"
-                },
-                "isSimulator": false
+                }
             },
             "duration": 4060,
             "appStartupDuration": 660,
@@ -249,8 +243,7 @@
                     "landscape": "ROTATION_90",
                     "upsideDown": "ROTATION_180",
                     "seascape": "ROTATION_270"
-                },
-                "isSimulator": false
+                }
             },
             "duration": 3966,
             "appStartupDuration": 456,
@@ -287,8 +280,7 @@
                     "landscape": "ROTATION_90",
                     "upsideDown": "ROTATION_180",
                     "seascape": "ROTATION_270"
-                },
-                "isSimulator": false
+                }
             },
             "duration": 4723,
             "appStartupDuration": 715,
@@ -325,8 +317,7 @@
                     "landscape": "ROTATION_90",
                     "upsideDown": "ROTATION_180",
                     "seascape": "ROTATION_270"
-                },
-                "isSimulator": false
+                }
             },
             "duration": 6,
             "appVersions": [
@@ -353,7 +344,6 @@
                     "matches": [],
                     "scaleFactor": 1,
                     "success": true,
-                    "message": "",
                     "screenshot": "10d8db60-e00d-5f1b-40a8-f5b24639b69c-screenshot.jpg",
                     "createdOn": 1661023011438
                 },
@@ -383,8 +373,7 @@
                     "landscape": "ROTATION_90",
                     "upsideDown": "ROTATION_180",
                     "seascape": "ROTATION_270"
-                },
-                "isSimulator": false
+                }
             },
             "duration": 13707,
             "appStartupDuration": 3603,

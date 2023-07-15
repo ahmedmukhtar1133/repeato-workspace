@@ -6,7 +6,7 @@
       "id": "0",
       "title": "Default Test Batch",
       "tests": [
-        "e3c481a7-44cd-66d2-06e5-4e72acba0494"
+        "5c60aca8-7baa-534c-2174-6ada517ecca4"
       ],
       "exceptionHandlers": []
     },
@@ -35,25 +35,34 @@
     "active": false,
     "expanded": true,
     "children": [
-      "ab9b148b-af41-f843-e399-2c78fe7874a4",
-      "d3298a1b-f550-c391-1525-eb334ac62591",
-      "4040eeb2-ce13-08d7-0a37-5d1c8c1b5515",
+      "775398ef-6693-e6bd-51c0-e661a3b2a855",
+      "3f7ed247-223b-63eb-720d-b9cf99111295",
+      "2567c2ef-9fd7-b2b2-6b6e-d9444e5317ec",
       "739beffd-cc07-1b72-8018-0886cdad7a2a",
+      "4040eeb2-ce13-08d7-0a37-5d1c8c1b5515",
+      "a489bfef-dcaf-0930-303c-09417dc2edb1",
       "2cf8ece4-700c-89ec-5ff6-e7578a7f3b5d",
       "dc0b529f-a445-158c-e85d-d5ede15d5e2e",
-      "a489bfef-dcaf-0930-303c-09417dc2edb1",
       "e3c481a7-44cd-66d2-06e5-4e72acba0494",
-      "7aa00c9a-c1d6-a080-2c51-3b957a56c5c6",
       "b4c143aa-4e02-4c57-10cb-750fe68e9f86",
+      "d3298a1b-f550-c391-1525-eb334ac62591",
+      "ab9b148b-af41-f843-e399-2c78fe7874a4",
+      "7aa00c9a-c1d6-a080-2c51-3b957a56c5c6",
+      {
+        "id": "1a2cb602-ce68-17b8-1aea-42bf738c75ee",
+        "title": "AHMAD-MUKHTAR-G",
+        "active": false,
+        "expanded": true,
+        "children": [
+          "5c60aca8-7baa-534c-2174-6ada517ecca4"
+        ]
+      },
       {
         "id": "189ecd53-e532-6156-a672-dddf978f05c7",
         "title": "Duplicator",
         "active": false,
         "expanded": true,
-        "children": [
-          "61159236-416b-579c-6be0-9d03c9179f69",
-          "9fa9907b-6895-0ebd-3225-d6b757932290"
-        ]
+        "children": []
       },
       {
         "id": "511d2920-533f-7359-9400-f1d7499d4dfb",
@@ -69,25 +78,29 @@
     "currentExceptionHandlerIndex": 0,
     "currentTestIndex": 0,
     "testRunner": {
-      "id": "4f445de2-843e-41aa-8e50-8ea77fd7d3d1",
-      "currentStepIndex": 0,
+      "id": "ad01faad-1cbd-b5ba-66e6-cfe2d0c41d86",
+      "currentTest": "5c60aca8-7baa-534c-2174-6ada517ecca4",
+      "currentStepIndex": 3,
       "stopExecutionOnStepIndex": -1,
       "defaultSearchTimeout": 8000,
-      "subTestRunners": []
+      "subTestRunners": [],
+      "rootTestRunner": "ad01faad-1cbd-b5ba-66e6-cfe2d0c41d86"
     },
     "batchRun": {
-      "id": "5d9880c6-924d-2755-0fd0-4824b264dc27",
+      "id": "c79555ee-9c9a-8164-70d1-a9fac221ff75",
       "batchId": "0",
       "title": "Default Test Batch",
-      "tests": [],
+      "tests": [
+        "5c60aca8-7baa-534c-2174-6ada517ecca4"
+      ],
       "testRuns": [],
-      "createdOn": 1687547732257,
+      "createdOn": 1689444869137,
       "stats": {
         "totalCount": 1,
         "successCount": 1,
-        "duration": "00:00:06",
+        "duration": "00:00:05",
         "failCount": 0,
-        "stepsCount": 6
+        "stepsCount": 4
       }
     },
     "exportMaxImageSize": 800
@@ -96,23 +109,5 @@
     "isRecording": false,
     "testDirty": false
   },
-  "schedules": [],
-  "advancedConfig": "",
-  "tags": [
-    {
-      "name": "steph-test-tag",
-      "color": "#A9CED5",
-      "predefined": false
-    },
-    {
-      "name": "another-tag",
-      "color": "#5497A0",
-      "predefined": false
-    },
-    {
-      "name": "colortag",
-      "color": "#FA7A89",
-      "predefined": false
-    }
-  ]
+  "schedules": []
 }
